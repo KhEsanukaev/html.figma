@@ -1,0 +1,539 @@
+*{
+    font-size: 40px
+}
+*{
+    box-sizing: border-box
+}
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+body{
+    font-family: 'Gilroy-Bold', sans-serif;
+font-family: 'Gilroy-Heavy', sans-serif;
+font-family: 'Gilroy-Light', sans-serif;
+font-family: 'Gilroy-Medium', sans-serif;
+font-family: 'Gilroy-Regular', sans-serif;
+}
+header {
+    width: 100%;
+    height: 116px;
+    display: flex;
+    /* justify-content: space-between;
+    align-items: center; */
+}
+
+.chapter_1 {
+    width: 95%;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+}
+.logo-first {
+    cursor: pointer;
+    align-items: center;
+    margin-left: 160px;
+    margin-top: 30px;
+}
+.chapter_1 a {
+    font-size: 18px;
+}
+
+.green-1 {
+    display: flex;
+}
+
+.pink-1 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+
+
+.text-1 h1 {
+    width: 400px;
+    font-size: 56px;
+    font-weight: 600;
+    color: #000;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+font-size: 56px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.text-1 p {
+    font-size: 20px;
+}
+.green-2{
+    display: flex;
+}
+
+.hr-1 {
+    width: 80%;
+    margin-left: 10%;
+}
+.Mr-dj {
+    height: 370px;
+    width: 60%;
+    background-color: #000;
+    color: white;
+}
+.jo {
+    margin-left: 20%;
+    margin-top: 10%;
+    color: #FFF;
+
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 140.625%;
+}
+.re {
+    margin-left: 20%;
+    margin-bottom: 10%;
+    color: #FFF;
+
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 140.625%;
+}
+.wish {
+    margin-left: 20%;
+    color: #FFF;
+
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.text-2 p {
+    color: #000;
+text-align: justify;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 140.625%;
+    
+}
+
+.pink-3{
+    width: 50%;
+}
+.pink-4 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.pink-3 img{
+    width: 100%;
+}
+.mather_block {
+    padding: 0 135px;
+    display: flex;
+    justify-content: space-between;
+}
+.pink-2 img {
+    width: 100%;
+    height: 100%;
+}
+
+.mather {
+  
+    justify-content: center;
+    align-items: center;
+}
+
+.orange {
+    height: 240px;
+    margin-top: 10%;
+    background-color: #F7941E;
+}
+
+.pink-2 {
+    width: 50%;
+}
+.oran-text b{
+    font-size: 32px;
+}
+
+.oran-text {
+    margin-top: 40px;
+    
+}
+.push1 button {
+    border: 1px solid orange;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 200px;
+    height: 60px;
+    color: #F7941E;
+    border-color: 1px solid #F7941E;
+    
+
+    font-size: 18px;
+}
+.header_btn{
+    border: 1px solid orange;
+}
+
+.push {
+    padding-top: 3%;
+    
+    width: 46%;
+    display: flex;
+    justify-content: center;
+}
+.push button {
+    border-radius: 5px;
+    width: 200px;
+    height: 48px;
+    
+
+    font-size: 18px;
+}
+
+.push button:first-child{
+    cursor: pointer;
+    background-color: black;
+    margin-right: 20px;
+    color: white;
+
+}
+.push button:last-child {
+    background: #F7941E;;
+    cursor: pointer;
+}
+.last-last10 {
+    justify-content: space-around;
+    padding: 55px 500px;
+}
+
+.orange-container {
+    justify-content: space-around;
+
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin-left: 13%;
+
+}
+
+.best-try h1 {
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.best-try p {
+    margin-top: 4%;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.black-block {
+    background-color: black;
+    width: 45%;
+}
+
+.Mr_Dj p {
+    display: flex;
+    justify-content: center;
+    font-size: 14px; color: white;
+    
+}
+.The-best p {
+    display: flex;
+    justify-content: center;
+    font-size: 48px; color: white;
+}
+.Read p {
+    display: flex;
+    justify-content: center;
+    font-size: 14px; color: white;
+
+}
+
+
+.Text-Art p {
+    margin-left: 10%;
+    font-size: 24px;
+}
+
+.white1_2 {
+    
+    width:;
+    margin-top: 3%;
+    justify-content: center;
+    display: flex;
+}
+
+.Lorem1 p {
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.Lorem2 p {
+    margin-left: 10%;
+    width: 80%;
+    display: flex;
+    justify-content: start;
+    font-size: 18px;
+
+}
+.chap {
+    justify-content: space-between;
+}
+.chap > ul {
+display: flex;
+gap: 31px;
+
+}
+.chap > ul > li {
+    list-style: none;
+}
+
+
+.Rea {
+    margin-left: 10%;
+    display: flex;
+    justify-content: start;
+    font-size: 14px;
+}
+
+.Rea2 {
+    margin-left: 10%;
+    display: flex;
+    justify-content: start;
+    font-size: 14px;
+
+}
+.img-last {
+    color: #F7941E;
+
+    cursor: pointer;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 320px;
+    margin-top: 5%;
+}
+.a{
+    cursor: pointer;
+}
+
+.img-last10 {
+    
+    margin-top: 4%;
+    display: flex;
+   
+    justify-content: space-around;
+    padding: 55px 610px;
+}
+.x2010 p{
+    padding-right: 30px;
+}
+.last2010 {
+    
+    display: flex;
+    justify-content: center;
+}
+
+.x2010 p {
+    display: flex;
+    justify-content: center;
+    font-size: 14px;
+}
+
+.lastPrivacy p {
+    display: flex;
+    justify-content: start;
+    font-size: 14px;
+}
+
+.HowWe-1 {
+    width: 441px;
+}
+.Gift-box p {
+    display: flex;
+    font-size: 32px;
+    justify-content: center;
+    align-items: center;
+    color: #000;
+text-align: center;
+
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    
+}
+.Gift-box2 p {
+    display: flex;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.birth p {
+    cursor: pointer;
+    color: #000;
+font-family: Gilroy;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.see p {
+    cursor: pointer;
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 135.938%; 
+}
+
+.anniv p {
+    cursor: pointer;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.see2 p {
+    cursor: pointer;
+    color: #000;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 135.938%;
+
+}
+
+.Valentin p {
+    cursor: pointer;
+    color: #000;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.see3 p {
+    cursor: pointer;
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135.938%;
+
+}
+
+.cris p {cursor: pointer;
+
+    color: #000;
+    font-family: Gilroy;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.tap {
+    cursor: pointer;
+}
+.see4 p {
+    cursor: pointer;
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 135.938%;
+}
+.foto {
+    box-shadow: -12px 10px 15px 0px rgba(0, 0, 0, 0.29);
+}
+.foto2 {
+    background: #FAFAFA;
+}
+.foto3 {
+    background: #FAFAFA;
+}
+.foto4 {
+    background: #FAFAFA;
+}
+.esan {
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+    width: 100%
+}
+.oran-text p {
+    font-size: 32px;
+    
+}
+.text-1 button {
+    border: 1px solid orange;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #F7941E;
+    font-size: 18px;
+    width: 200px;
+    height: 60px;
+}
+.chapter_1 button {
+    cursor: pointer;
+    border-radius: 5px;
+    border-color: #F7941E;
+    font-size: 18px;
+    color: #F7941E;
+}
+.block-white{
+    background: #FFF;
+box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.05);
+    width: 63%;
+}
+.block-white33{
+    width: 
+    height:
+}
+.image-man-woman > img{
+    width: 100%;
+    height: 370px;
+}
+
+.esan {
+    width: 100%;
+}
+
+.chapter_1 a {
+    word-spacing: 20px;
+}
+.text-header h1 {
+    font-size: 32px;
+}
